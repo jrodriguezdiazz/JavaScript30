@@ -1,0 +1,13 @@
+{
+  "name": "JavaScript30",
+  "version": "1.0.0",
+  "description": "30 Day Challenge (JS31)",
+  "main": "index.js",
+  "repository": "https://github.com/jrodriguezdiazz/JavaScript30.git",
+  "author": "jrodriguediazz <jorgedejesusrodriguezdiaz@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "install": "yarn",
+    "start": "parcel index.html"
+  }
+}
